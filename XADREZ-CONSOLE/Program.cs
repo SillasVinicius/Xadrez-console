@@ -48,6 +48,8 @@ namespace XADREZ_CONSOLE
                         Console.ReadLine();
                     }
                 }
+                Console.Clear();
+                Tela.imprimirPartida(partida);
 
                 
             }
